@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gauravup.github.io/gauravupadhyay/sitemap.xml

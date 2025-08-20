@@ -1,4 +1,11 @@
 User-agent: *
 Allow: /
 
+# Block unwanted files & folders
+Disallow: /css/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /img/
+
+# Sitemap location
 Sitemap: https://gauravup.github.io/gauravupadhyay/sitemap.xml

@@ -1,11 +1,8 @@
 User-agent: *
 Allow: /
 
-# Block unwanted files & folders
-Disallow: /css/
-Disallow: /js/
-Disallow: /lib/
-Disallow: /img/
+# Only block unnecessary system files (agar ho to)
+Disallow: /README.md
 
-# Sitemap location
+# Sitemap
 Sitemap: https://gauravup.github.io/gauravupadhyay/sitemap.xml
